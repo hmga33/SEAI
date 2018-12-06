@@ -1,0 +1,6 @@
+include different views of ASV
+
+bodyboarder-top.png
+bodyboarder-side.png
+bodyboarder-back.png
+bodyboarder-presentation.png
